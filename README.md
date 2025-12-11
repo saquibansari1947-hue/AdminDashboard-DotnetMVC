@@ -135,6 +135,6 @@ Feel free to open issues or submit pull requests if you want to improve this pro
 
 ## 📬 **Contact**
 
-**Developer:** Mohammad Saquib
-Email: [emailtosaquib@gmail.com](mailto:emailtosaquib@gmail.com)
-GitHub: [https://github.com/your-username](https://github.com/your-username)
+**Developer:** Mohammad Saquib Ansari
+Email: emailtosaquib@gmail.com
+GitHub: https://github.com/saquibansari1947-hue
